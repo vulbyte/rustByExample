@@ -21,3 +21,8 @@ fn main() {
         nanoseconds + inches
     );
 }
+
+// the main use of aliases is to reduce boilerplate; for example the io::Result<T> is an alias fort
+// the Result<T, io::Error> type
+//
+// see also Atrtributes: https://doc.rust-lang.org/rust-by-example/attribute.html
