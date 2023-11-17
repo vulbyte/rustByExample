@@ -9,7 +9,7 @@ first number is the list indicates lession section, second indicates sub-lesson
 here's a list for easy reference:
 
 ## if you are interested in learning rust
-this is a good resource, but some of this is HORRIBLY disorganised. i feel although this is actually a really good way to learn, it is given to you in a dessert first fasion.
+this is a good resource, but some of this is HORRIBLY disorganised. i feel although this is actually a really good way to learn, it is given to you in a dessert first fashion.
 
 
 1.  [Hello World](https://doc.rust-lang.org/rust-by-example/hello.html) - Start with a traditional Hello World program.
